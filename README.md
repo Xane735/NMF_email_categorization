@@ -48,9 +48,11 @@ https://github.com/MWiechmann/enron_spam_data/blob/master/enron_spam_data.zip
 - One subplot grid showing **each topic's top keyword frequency**.
 
 Example:
-Topic #1 - Keyword Frequencies
+Topic #1 - Keyword Frequencies  
+
 Keyword1 : http  
-Keyword2 : html
+
+Keyword2 : html  
 ...
 
 ## Requirements
