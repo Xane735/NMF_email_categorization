@@ -49,9 +49,10 @@ https://github.com/MWiechmann/enron_spam_data/blob/master/enron_spam_data.zip
 
 Example:
 Topic #1 - Keyword Frequencies
-Keyword1 : http
-Keyword2 | html
+Keyword1 : http  
+Keyword2 : html
 ...
+
 ## Requirements
 
 - Python 3.7+
@@ -65,18 +66,17 @@ Install them with:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib nltk
+```
 
 ## How to Run
-Clone the repository or download the script.
+1. Clone the repository or download the script.
 
-Place your dataset CSV in the same directory (with a Message column).
+2. Place your dataset CSV in the same directory (with a Message column).
 
-Run the main Python file:
-
+3. Run the main Python file:
 ```bash
-Copy
-Edit
 python nmf.py
+```
 
 ## References
 Scikit-learn NMF Docs
